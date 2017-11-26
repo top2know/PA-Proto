@@ -1,0 +1,10 @@
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\bin\Debug\MainForm.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\bin\Debug\MainForm.exe
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\bin\Debug\MainForm.pdb
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\obj\Debug\MainForm.exe
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\obj\Debug\MainForm.pdb
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\obj\Debug\MainForm.FormEnter.resources
+c:\users\alex\documents\visual studio 2017\Projects\PA\MainForm\obj\Debug\MainForm.Elements.resources
